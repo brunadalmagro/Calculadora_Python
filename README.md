@@ -1,7 +1,7 @@
 # Python_tkinter
 Tkinter é uma biblioteca de interface gráfica em Python desde simples calculadoras até aplicativos mais complexos, como editores de texto, reprodutores de mídia, interfaces de banco de dados, entre outros. Que permite criar aplicativos com interfaces de usuário, não é necessário instalá-lo separadamente.
 
-# Calculadora <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+# Calculadora <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=BLUE&style=for-the-badge"/></p>
 
 Este é um exemplo de uma calculadora simples desenvolvida usando Tkinter em Python.
 
