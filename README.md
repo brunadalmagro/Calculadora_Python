@@ -1,5 +1,6 @@
-# Python_tkinter
-Tkinter é uma biblioteca de interface gráfica em Python desde simples calculadoras até aplicativos mais complexos, como editores de texto, reprodutores de mídia, interfaces de banco de dados, entre outros. Que permite criar aplicativos com interfaces de usuário, não é necessário instalá-lo separadamente.
+
+![image](https://github.com/brunadalmagro/Calculadora_Python/assets/96844434/ae23e841-7e94-403d-acaf-e9a12c4b6564)
+
 
 # Calculadora <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=BLUE&style=for-the-badge"/></p>
 
@@ -11,11 +12,21 @@ A calculadora possui uma interface gráfica intuitiva, onde os usuários podem i
 
 A calculadora também oferece a funcionalidade de limpar a tela, permitindo que os usuários redefinam a entrada e comecem novamente. Além disso, foi implementado o cálculo de porcentagem para facilitar o cálculo de valores percentuais.
 
+## Capacidade
+- [ ] Soma
+- [ ] Subtração
+- [ ] Divisão
+- [ ] Multiplicação
+- [ ] Porcentagem
+
 ## Pré-requisitos
 
 Certifique-se de ter o Python instalado em seu sistema. Este código foi desenvolvido e testado usando a versão Python 3.
 
 Além disso, o Tkinter já faz parte da biblioteca padrão do Python, portanto, não há necessidade de instalar pacotes adicionais.
+
+# Python_tkinter
+Tkinter é uma biblioteca de interface gráfica em Python desde simples calculadoras até aplicativos mais complexos, como editores de texto, reprodutores de mídia, interfaces de banco de dados, entre outros. Que permite criar aplicativos com interfaces de usuário, não é necessário instalá-lo separadamente.
 
 ## Como executar
 
