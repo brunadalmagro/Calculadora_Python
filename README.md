@@ -13,10 +13,10 @@ A calculadora possui uma interface gráfica intuitiva, onde os usuários podem i
 A calculadora também oferece a funcionalidade de limpar a tela, permitindo que os usuários redefinam a entrada e comecem novamente. Além disso, foi implementado o cálculo de porcentagem para facilitar o cálculo de valores percentuais.
 
 ## Capacidade
-- [ ] Soma
-- [ ] Subtração
-- [ ] Divisão
-- [ ] Multiplicação
+- [x] Soma
+- [x] Subtração
+- [x] Divisão
+- [x] Multiplicação
 - [ ] Porcentagem
 
 ## Pré-requisitos
